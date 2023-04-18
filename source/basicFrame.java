@@ -3,17 +3,17 @@ import java.net.http.HttpResponse.ResponseInfo;
 
 import javax.swing.JFrame;
 import javax.swing.JLabel;
-import javax.swing.StateValue;
 
 import org.w3c.dom.views.AbstractView;
 
-import HW3.source.City.Citizen;
-import HW3.source.City.City;
-import HW3.source.City.Kid;
-import HW3.source.City.Person;
-import HW3.source.City.Police;
-import HW3.source.City.Teacher;
-import HW3.source.City.Zombie;
+import source.City.Citizen;
+import source.City.City;
+import source.City.Kid;
+import source.City.Police;
+import source.City.Teacher;
+import source.City.Zombie;
+
+
 
 /**
  * Mostly created through netbeans GUI designer
